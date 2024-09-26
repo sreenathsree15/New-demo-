@@ -1,2 +1,3 @@
 secondbranch
 secondbranch new line added
+secondline added in first branch
